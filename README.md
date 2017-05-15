@@ -1,4 +1,4 @@
-# skyscanner-travel-pkg
+# Skyscanner API node module
 
 ## Install
 ```sh
