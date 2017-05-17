@@ -1,0 +1,87 @@
+body {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.navbar {
+	margin-bottom: 10px;
+	background-color: #eb1c22;
+	border-color: #eb1c22;
+}
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {
+	color:white;
+}
+.leftHeader,.rightHeader,.headerImage{
+	padding:0;
+	margin:0;
+	background-color: white;
+}
+
+h2.topHeader{
+  background-color: #eb1c22;
+  color: white;
+  text-align: center;
+  padding-bottom: 5px;
+  font-family: Helvetica;
+}
+
+img.banner{
+	width: 100%;
+	margin-bottom: 10px;
+}
+img.skyscanner{
+	width: 50%;
+	margin-left: 25%;
+}
+.topContent{
+	min-height: 350px;
+}
+
+button.okButton{
+	margin-top: 25px;
+	background-color: #00b5d2;
+	color: white;
+}
+#dashboardContent{
+	margin-top: 20px;
+}
+.flightContent{
+  border: 1px solid #e5e5e5;
+  padding:10px;
+  margin-top: 20px;
+  text-align: center; 
+}
+
+.flightInfo{
+  padding:10px;
+  text-align: left; 
+  margin-left: 5%;
+}
+
+.text{
+	border: 1px solid #ccc;
+	height: 150px;
+	padding: 5px;
+}
+p.name{
+	text-align: center;
+	font-weight: bold;
+	height: 50px;
+}
+
+button.btn.btn-default.upcoming{
+	width: 100%;
+	border-radius: 0px;
+	border-top:0;
+	background-color: #eb1c22;
+	color:white;
+}
+
+h2.flightHeader{
+  background-color: #31708f;
+  font-size: 20px;
+  color: white;
+  padding: 5px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
