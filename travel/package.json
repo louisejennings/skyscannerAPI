@@ -1,0 +1,21 @@
+{
+  "name": "skyscanner-travel-pkg",
+  "version": "1.0.10",
+  "description": "Flight Quotes",
+  "main": "skyscanner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "travel",
+    "flight quotes"
+  ],
+  "author": "Louise Jennings",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
+
+  
+  
